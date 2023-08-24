@@ -1,0 +1,9 @@
+https://civitai.com/api/download/models/5637
+https://civitai.com/api/download/models/6057
+https://civitai.com/api/download/models/20068
+https://huggingface.co/datasets/gsdf/EasyNegative/resolve/main/EasyNegative.safetensors
+https://huggingface.co/gsdf/Counterfeit-V3.0/resolve/main/embedding/EasyNegativeV2.safetensors
+https://civitai.com/api/download/models/60938
+https://huggingface.co/datasets/Nerfgun3/bad_prompt/resolve/main/bad_prompt.pt
+https://huggingface.co/datasets/Nerfgun3/bad_prompt/resolve/main/bad_prompt_version2.pt
+https://civitai.com/api/download/models/25820
