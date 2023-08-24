@@ -1,0 +1,4 @@
+https://huggingface.co/WarriorMama777/OrangeMixs/blob/main/VAEs/orangemix.vae.pt
+https://huggingface.co/Norisuke193/kl-f8-anime2/blob/main/kl-f8-anime2.vae.pt
+https://huggingface.co/a1079602570/animefull-final-pruned/resolve/main/animevae.pt
+https://huggingface.co/stabilityai/sd-vae-ft-mse-original/resolve/main/vae-ft-mse-840000-ema-pruned.safetensors
